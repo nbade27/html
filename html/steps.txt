@@ -1,0 +1,6 @@
+The tags which have opening and closing tags is called ContainerTag.
+Any tag that is inside of other tag is called child tag.
+Any tags which share a common tag is called sibling tags.
+we can also use like grand child in these terminologies
+
+
