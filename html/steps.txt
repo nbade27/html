@@ -3,4 +3,32 @@ Any tag that is inside of other tag is called child tag.
 Any tags which share a common tag is called sibling tags.
 we can also use like grand child in these terminologies
 
+17 May 2022 
+
+We can have <big>text</big> for showing bigger text inside of this tag
+We also have <small>text<small/> which decreases the size of the text
+We also have subscripts like <sub></sub> which is used to come in base like chemical formula of water
+We also have subscripts like <sup></sup> which is used to come in power like math square
+
+Comments: we can write comments in the form of <!-- --> so the browser will ignore this text inside of this tags
+
+use comments to tell what we cannot explained in code
+
+We should use meta tags that are used to show data in website when we google it in main page (meta tag)
+
+18th May 2022
+
+there are some kind of formatting tags in html
+they are Header,Main,Footer
+There are tags like article,section tags
+aside tag is used to make for adds
+
+Always use layout tags that used for better searching for search engines.
+
+So finally I want you to make your code more readable.
+for this we need to divide based on tags so these are called formatting tags
+
+
+
+
 
