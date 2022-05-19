@@ -29,6 +29,15 @@ So finally I want you to make your code more readable.
 for this we need to divide based on tags so these are called formatting tags
 
 
+Link : we can use a tag to relate an url to a website from ur web page
+also we can access a file(img/html) in your system
 
+Note: In addition to setting both the width and height, you can choose to only set either the width OR the height.
+By only setting one, HTML will automatically adjust the aspect ration for you.
+So if you only set width="100",
+HTML will automatically resize the height correctly
+
+We also have video tag in html it has some attributes you can check it.
+In some places we have found that youtube video is playing in browser it is because of iframe Tag so that you can see video in browser
 
 
