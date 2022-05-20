@@ -40,4 +40,25 @@ HTML will automatically resize the height correctly
 We also have video tag in html it has some attributes you can check it.
 In some places we have found that youtube video is playing in browser it is because of iframe Tag so that you can see video in browser
 
+we can use table tag fot table 
+tr for each row
+td for each cell
+caption for captioning the table
+th is for identifying as a Header
+thead will wrap all cells as a Header
+tbody will wrap header cells
+
+
+div and span are containers 
+
+There are two types of elements in html 
+    1.Block elements(Paragraph tag) these will sit down to each other in line
+    2.Inline elements(anchor tags ) these will sit next to each other in line
+
+    In the same way spans are inline containers and div are block containers.
+    
+
+
+div is used to wrap some of html tags in one tag
+
 
