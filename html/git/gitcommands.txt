@@ -1,0 +1,10 @@
+for creating branch in local repo
+    git branch <branch name>
+for going into that branch
+    git checkout <branch name>
+for adding changed files 
+    git add .
+for commit
+    git commit -m "commit message"
+for pushing
+    got push -u origin <branch name>
