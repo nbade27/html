@@ -61,4 +61,28 @@ There are two types of elements in html
 
 div is used to wrap some of html tags in one tag
 
+input tags these are used to allow user to enter data in html elements
+Ex: text box,text area, radio buttons etc.
+
+The manin difference between checkbox and radio button is that 
+we can select all checkboxes at a time 
+but we cannot check radio buttons of same name at a time
+https://www.w3schools.com/html/html_form_input_types.asp
+Use this link to get to know about all input types
+
+
+form tag is an wrapper for a bunch of input tags.
+
+
+iframe is a tag that is used to show one website in other website
+some websites will prevent others to see in their website check for amazon in i frame
+
+we can resize it with height and width attributes
+
+Meta tags are most important for Website search engines
+we can enter keywords, about author,device fitting in this tags
+
+
+
+
 
